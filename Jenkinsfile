@@ -2,8 +2,3 @@
 @Library('roboshop') _
 
 demo()
-
-stage('Demo') {
-     echo 'Hello world'
- }
-
