@@ -3,6 +3,7 @@
 
 // Define the variables.
 env.component="catalogue"
+codeType="nodejs"
 
 
 // Call the function from shared library
