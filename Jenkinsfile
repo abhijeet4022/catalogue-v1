@@ -6,5 +6,5 @@ env.component="catalogue"
 env.codeType="nodejs"
 
 
-// Call the function from shared library.
+// Call the function from shared library..
 cipipeline()
